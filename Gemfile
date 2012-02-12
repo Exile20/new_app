@@ -12,7 +12,7 @@ end
 group :assets do
   gem 'sass-rails',   '3.2.3'
   gem 'coffee-rails', '3.2.2'
-
+  gem 'therubyracer', '>=0.8.2'
   gem 'uglifier', '1.0.3'
 end
 
